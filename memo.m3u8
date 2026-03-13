@@ -9,16 +9,16 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="España",Antena 3
-https://atres-live.atresmedia.com/78a92b068f0f3a3a7ccec0adccd84adbebd5782e_ES_1773421900_1773450640/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/8730c36f2cf915effb0a66ff82966cc459c48cf5_ES_1773422357_1773451097/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="España",laSexta
-https://atres-live.atresmedia.com/970bb5ac6f60fa719572d8c8b4e67371b0077aad_ES_1773421880_1773450620/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/bba5a4b4605b8303f0d6f4e50c8ebd66a36c5b2a_ES_1773422337_1773451077/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="España",Neox
-https://atres-live.atresmedia.com/b5b56e6ac5d5caeee445c1355cbe8b3d3dd7bbcb_ES_1773421916_1773450656/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/8b6c4affcb2c2eb35755c3372859742953664069_ES_1773422373_1773451113/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://static.iptv-epg.com/es/Mega.es.png" group-title="España",Mega
-https://atres-live.atresmedia.com/1120ee22e1e019586110f5daa0f8db45ed513772_ES_1773421934_1773450674/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/0be40174264b013c257bab5a456543f72df5c0d9_ES_1773422389_1773451129/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://static.iptv-epg.com/es/DMAX.es.png" group-title="Documentales",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzI3MTQ1MjYsIm5iZiI6MTc3MjcxNDUyNiwiZXhwIjoxNzcyNzE0ODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiNzkuMTUyLjY2LjIwNSJ9.-ZYW6cgEqf4Pir-KwSryoDa8WKl_KebFCh7uhqiay5A/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
@@ -129,7 +129,37 @@ https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Videolina" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Videolina_logo.svg/512px-Videolina_logo.svg.png" group-title="Sardegna",Videolina
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(Pv_Th6Xk_0tpqS6Z3Rb-Lco2EnQ0Ga2NQqN7pg462FIlyEGTvaejHxS2tuPBkAXQK56R82O8T4CwmIBn7SZLTmgEQrWZ6JH3DrHiXsYWAfbc40oR9lJET_QACriwMOEe)/cloud/3/xa0aoxk/d/live-720.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(nFcS67rtbVYoFptxM2AtyiyBoyTdbvV2BzP6m8VMZI0TvXujDmIgLGxseiGcxR9oSzXVqoeM8QgqLEzVXorMYzNSAuPDLxUxOqDSdlChT6Dm9MoaVrIhureJCc8R0GOr)/cloud/3/xa0aoxk/d/live-720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/History_Logo.svg/512px-History_Logo.svg.png" tvg-id="Historia" group-title="Documentales",Canal Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/3-24_logo.svg/512px-3-24_logo.svg.png" tvg-id="324.cat" group-title="Informativos",Canal 324
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" tvg-id="6430a9dcfc3be594776d55f4-6448ba1baf92c31f4a190c27" tvg-chno="622" group-title="PLEX TV - True Crime",JAIL
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6448ba1baf92c31f4a190c27.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" tvg-id="6430a9dcfc3be594776d55f4-5ef4e1b40d9ad000423c4430" tvg-chno="617" group-title="PLEX TV - Movies",Maverick Black Cinema
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-5ef4e1b40d9ad000423c4430.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" tvg-id="6430a9dcfc3be594776d55f4-66bfb17c144c201b8b61c10d" tvg-chno="618" group-title="PLEX TV - Movies",RCM
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-66bfb17c144c201b8b61c10d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png" tvg-id="6430a9dcfc3be594776d55f4-614e286b2bac097ffd6fd6ab" tvg-chno="619" group-title="PLEX TV - Movies",Documentary+
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-614e286b2bac097ffd6fd6ab.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
+
+#EXTINF:-1 tvg-name="wedo Big Stories" tvg-id="wedo-big-stories-ita" tvg-chno="385" group-title="RAKUTEN documentari",wedo Big Stories
+https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="cgtn-documentary" tvg-chno="386" group-title="RAKUTEN documentari",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-name="Mayday: Disastro Aereo" tvg-id="mayday-air-disaster-channel-ita" tvg-chno="387" group-title="RAKUTEN documentari",Mayday: Disastro Aereo
+https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaydisastroaereo-rakutenit/playlist.m3u8
+
+#EXTINF:-1 tvg-name="80 Anni - 2a Guerra Mondiale" tvg-id="80-anni" tvg-chno="388" group-title="RAKUTEN documentari",80 Anni - 2a Guerra Mondiale
+https://12c898047ca54008a2014edf2411f165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_80Anni2aGuerraMondiale/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.it" group-title="Italy",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
@@ -170,12 +200,6 @@ https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rakuten_TV_logo.svg/330px-Rakuten_TV_logo.svg.png",Hell's Kitchen Italy (1080p)
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Inazuma_Eleven_logo.png/330px-Inazuma_Eleven_logo.png",Inazuma Eleven Go Italy (720p)
-https://minerva-pictures-inazumaelevengo-1-it.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mr._Bean_Animated_Series_logo.png/330px-Mr._Bean_Animated_Series_logo.png",Mr. Bean Anime Italy (1080p)
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Red_Bull_TV_logo.png/330px-Red_Bull_TV_logo.png",Red Bull TV EN
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -215,33 +239,5 @@ https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-id="Super.it" group-title="Italy",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/History_Logo.svg/512px-History_Logo.svg.png" tvg-id="Historia" group-title="Documentales",Canal Historia
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/3-24_logo.svg/512px-3-24_logo.svg.png" tvg-id="324.cat" group-title="Informativos",Canal 324
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" tvg-id="6430a9dcfc3be594776d55f4-6448ba1baf92c31f4a190c27" tvg-chno="622" group-title="PLEX TV - True Crime",JAIL
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6448ba1baf92c31f4a190c27.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" tvg-id="6430a9dcfc3be594776d55f4-5ef4e1b40d9ad000423c4430" tvg-chno="617" group-title="PLEX TV - Movies",Maverick Black Cinema
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-5ef4e1b40d9ad000423c4430.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" tvg-id="6430a9dcfc3be594776d55f4-66bfb17c144c201b8b61c10d" tvg-chno="618" group-title="PLEX TV - Movies",RCM
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-66bfb17c144c201b8b61c10d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png" tvg-id="6430a9dcfc3be594776d55f4-614e286b2bac097ffd6fd6ab" tvg-chno="619" group-title="PLEX TV - Movies",Documentary+
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-614e286b2bac097ffd6fd6ab.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
-
-#EXTINF:-1 tvg-name="wedo Big Stories" tvg-id="wedo-big-stories-ita" tvg-chno="385" group-title="RAKUTEN documentari",wedo Big Stories
-https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="cgtn-documentary" tvg-chno="386" group-title="RAKUTEN documentari",CGTN Documentary
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-name="Mayday: Disastro Aereo" tvg-id="mayday-air-disaster-channel-ita" tvg-chno="387" group-title="RAKUTEN documentari",Mayday: Disastro Aereo
-https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaydisastroaereo-rakutenit/playlist.m3u8
-
-#EXTINF:-1 tvg-name="80 Anni - 2a Guerra Mondiale" tvg-id="80-anni" tvg-chno="388" group-title="RAKUTEN documentari",80 Anni - 2a Guerra Mondiale
-https://12c898047ca54008a2014edf2411f165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_80Anni2aGuerraMondiale/playlist.m3u8
 
