@@ -9,16 +9,16 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="España",Antena 3
-https://atres-live.atresmedia.com/24a4fadb658e76f6ba67210960c42a88c293b8f2_ES_1773418515_1773447255/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/f7e3b8cb811823259fa8367d11d66cf5cc90f6bb_ES_1773417521_1773446261/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="España",laSexta
-https://atres-live.atresmedia.com/0e10f6d7535058f556fa7f6f5be9cd3ba3108743_ES_1773418498_1773447238/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/ffe105c4117a909d85986c4a61fd064ce12e6555_ES_1773417505_1773446245/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="España",Neox
-https://atres-live.atresmedia.com/b90ad7a340e6bb802604da3c8b93d0eda7c7619a_ES_1773418533_1773447273/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/2ee9d0e7f3745789f7578ff33dbab764342b1987_ES_1773417538_1773446278/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://static.iptv-epg.com/es/Mega.es.png" group-title="España",Mega
-https://atres-live.atresmedia.com/604225051323d72fdda35bd4c4d3aa93a73dd765_ES_1773418554_1773447294/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/312dc3f2f91b124ae201ec9782268d017338e270_ES_1773417556_1773446296/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://static.iptv-epg.com/es/DMAX.es.png" group-title="Documentales",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzI3MTQ1MjYsIm5iZiI6MTc3MjcxNDUyNiwiZXhwIjoxNzcyNzE0ODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiNzkuMTUyLjY2LjIwNSJ9.-ZYW6cgEqf4Pir-KwSryoDa8WKl_KebFCh7uhqiay5A/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
