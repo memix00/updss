@@ -9,16 +9,16 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="España",Antena 3
-https://atres-live.atresmedia.com/844b2b3a656feb796d0174cddb2a1dc63604bf2f_ES_1773536945_1773565685/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/87de157e306d37aeb7788393ca39198420efb65a_ES_1773571058_1773599798/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="España",laSexta
-https://atres-live.atresmedia.com/28833623dc1dd1e381afd1a9dfb2f8e4d909eb6c_ES_1773536935_1773565675/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/c8be61a8188440e117647903bf2ffcda415af137_ES_1773571048_1773599788/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="España",Neox
-https://atres-live.atresmedia.com/b26201c275c10009cd406bdad71f3bb7eace2c8f_ES_1773536954_1773565694/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/0f66108d618d3edcb3326d669334d985d065a5df_ES_1773571068_1773599808/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://static.iptv-epg.com/es/Mega.es.png" group-title="España",Mega
-https://atres-live.atresmedia.com/11dd1b2e94a7af0acdfeca5e4ff1667fc2aa99fe_ES_1773536964_1773565704/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/7b9cded948746b5d074449e1056018bde73ef38b_ES_1773571079_1773599819/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://static.iptv-epg.com/es/DMAX.es.png" group-title="Documentales",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzM0ODM3MjcsIm5iZiI6MTc3MzQ4MzcyNywiZXhwIjoxNzczNDg0MDg3LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDYuMTcxLjIxNiJ9.zOMTv_fWwTOcpf17YUrTcSfyn73-AJBSTRBXFYTfjWY/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
@@ -141,7 +141,7 @@ https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Videolina" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Videolina_logo.svg/512px-Videolina_logo.svg.png" group-title="Sardegna",Videolina
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(_UQ5TeYcQS-CT2GtxRjcCv9pAWXjKU1CSHkS76LsjTsyH40errDvQGOQke_4HGqHBPGrw5RqJqno1jCgfCFuGC4r5WwcAhEcFCicf-U4iJGGXrziKK0kOHJd1JuAzQMf)/cloud/3/xa0aoxk/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(TS1qk9T4IiiL78ZgHYfxgPB_uyjYm0kc6GtkeEdGUKZgQZlZXi6Jv8ZmuRVLkE30_teLuuWHvcHz-0-ejvrIJd-zfWS0ftD64C5nqlRaax8r-icnKdlAjFOc8xSMImaB)/cloud/3/xa0aoxk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="Mayday: Disastro Aereo" tvg-id="mayday-air-disaster-channel-ita" tvg-chno="387" group-title="RAKUTEN documentari",Mayday: Disastro Aereo
 https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaydisastroaereo-rakutenit/playlist.m3u8
