@@ -9,16 +9,16 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="España",Antena 3
-https://atres-live.atresmedia.com/1cf34531f748e6ca1072eee81aed37dbb3341baa_ES_1773578675_1773607415/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/1e4280d1e6d01b1266c8431e892825f623649229_ES_1773596427_1773625167/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="España",laSexta
-https://atres-live.atresmedia.com/5645ce112889c70607a77a335c985421928165e7_ES_1773578666_1773607406/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/13465a3ae41b28e096ada22f2eb02ca2bbe70cc8_ES_1773596417_1773625157/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="España",Neox
-https://atres-live.atresmedia.com/af7d1fa070c89db7ed448875dd8c2f049b344920_ES_1773578685_1773607425/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/7b06f9b43acee7783c806940e5b7504d6df982eb_ES_1773596436_1773625176/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://static.iptv-epg.com/es/Mega.es.png" group-title="España",Mega
-https://atres-live.atresmedia.com/e8e357ded61af27f8847e3833d3d45d038bdaee0_ES_1773578694_1773607434/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/a6e68090603158b2f62aa342789f83b4413c1c07_ES_1773596446_1773625186/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://static.iptv-epg.com/es/DMAX.es.png" group-title="Documentales",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzM0ODM3MjcsIm5iZiI6MTc3MzQ4MzcyNywiZXhwIjoxNzczNDg0MDg3LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDYuMTcxLjIxNiJ9.zOMTv_fWwTOcpf17YUrTcSfyn73-AJBSTRBXFYTfjWY/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
@@ -122,15 +122,14 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://uvotv.zappr.stream/86.m3u8
 
 #EXTINF:-1 tvg-name="Focus" group-title="Italia",Focus
-#EXTVLCOPT:http-reconnect=true
 https://uvotv.zappr.stream/89.m3u8
 
 #EXTINF:-1 tvg-name="Cine 34" group-title="Italia",Cine 34
 #EXTVLCOPT:http-reconnect=true
 https://uvotv.zappr.stream/92.m3u8
 
-#EXTINF:-1 tvg-name="Canale 122 HD" group-title="Italia",Canale 122 HD
-#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-id="Canale122.it" tvg-name="Canale 122 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canale_122_logo.png" group-title="Italia",Canale 122 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://uvotv.zappr.stream/128.m3u8
 
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Cielo_TV_logo_2013.svg" group-title="Italia",Cielo Italia
@@ -160,11 +159,7 @@ https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Videolina" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Videolina_logo.svg/512px-Videolina_logo.svg.png" group-title="Sardegna",Videolina
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(qIEzgskFRnwYeqA7BHGsoLCsvegCEl_2DIZ3GfhbMBGmPI0GcAcmpKWyPxtYQ48lbBziFLjw4dnnM13_qNZGJms3bcXCi8pSfzdVCNAVSHXHu4LnQyymZ2YetKnQeBSy)/cloud/3/xa0aoxk/d/live-720.m3u8
-
-#EXTINF:-1 tvg-name="TV2000" group-title="Italia",TV2000
-#EXTVLCOPT:http-reconnect=true
-https://uvotv.zappr.stream/266.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(5tThZLGdiBa_h0QlaD54plqBwDH0jtXsvYoW_lbhyaOxOmz6YFvtoBVu6jp82hIaFe8oTavuKRX-0CxHPp4BFnuPN0I9nOLlEzBztrZn8GS9Ttj-gp0uh3tZptBPNjcf)/cloud/3/xa0aoxk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="RTV" group-title="Italia",RTV
 #EXTVLCOPT:http-reconnect=true
@@ -178,12 +173,6 @@ https://12c898047ca54008a2014edf2411f165.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.it" group-title="Italy",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CG_Entertainment_logo.png/960px-CG_Entertainment_logo.png",CG Entertainment
-https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="The Pet Collective" group-title="Animali",The Pet Collective
-https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rakuten_TV_logo.svg/330px-Rakuten_TV_logo.svg.png",Alberto Sordi & Co (720p)
 https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8
@@ -223,9 +212,6 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies Italy
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rakuten_TV_logo.svg/330px-Rakuten_TV_logo.svg.png",Hell's Kitchen Italy
-https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" tvg-id="6430a9dcfc3be594776d55f4-6448ba1baf92c31f4a190c27" tvg-chno="622" group-title="PLEX TV - True Crime",JAIL
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6448ba1baf92c31f4a190c27.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
 
@@ -240,3 +226,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="NatureTime.es@SD" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",Nature Time 
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Animali",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
