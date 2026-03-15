@@ -9,16 +9,16 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="España",Antena 3
-https://atres-live.atresmedia.com/1e4280d1e6d01b1266c8431e892825f623649229_ES_1773596427_1773625167/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/681a77970d7de054d01d77c4c1517c7524f05da8_ES_1773598015_1773626755/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="España",laSexta
-https://atres-live.atresmedia.com/13465a3ae41b28e096ada22f2eb02ca2bbe70cc8_ES_1773596417_1773625157/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/ade3d9d6e545cb93fcbdaa08d0cf001dce6a677b_ES_1773598006_1773626746/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="España",Neox
-https://atres-live.atresmedia.com/7b06f9b43acee7783c806940e5b7504d6df982eb_ES_1773596436_1773625176/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/aa6db436168b9c67ab233ec41972185296879bc7_ES_1773598025_1773626765/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://static.iptv-epg.com/es/Mega.es.png" group-title="España",Mega
-https://atres-live.atresmedia.com/a6e68090603158b2f62aa342789f83b4413c1c07_ES_1773596446_1773625186/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/17444db76e579df1de84fa5f4f4b780aaac97a9b_ES_1773598034_1773626774/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://static.iptv-epg.com/es/DMAX.es.png" group-title="Documentales",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzM0ODM3MjcsIm5iZiI6MTc3MzQ4MzcyNywiZXhwIjoxNzczNDg0MDg3LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDYuMTcxLjIxNiJ9.zOMTv_fWwTOcpf17YUrTcSfyn73-AJBSTRBXFYTfjWY/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
@@ -111,21 +111,18 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
 #EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TV8_logo.svg" group-title="Italia",TV8 Italia
-#EXTVLCOPT:http-reconnect=true
 https://uvotv.zappr.stream/269.m3u8
 
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="Italy",Nove
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 
 #EXTINF:-1 tvg-name="Top Crime" group-title="Italia",Top Crime
-#EXTVLCOPT:http-reconnect=true
 https://uvotv.zappr.stream/86.m3u8
 
 #EXTINF:-1 tvg-name="Focus" group-title="Italia",Focus
 https://uvotv.zappr.stream/89.m3u8
 
 #EXTINF:-1 tvg-name="Cine 34" group-title="Italia",Cine 34
-#EXTVLCOPT:http-reconnect=true
 https://uvotv.zappr.stream/92.m3u8
 
 #EXTINF:-1 tvg-id="Canale122.it" tvg-name="Canale 122 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canale_122_logo.png" group-title="Italia",Canale 122 HD
@@ -133,7 +130,6 @@ https://uvotv.zappr.stream/92.m3u8
 https://uvotv.zappr.stream/128.m3u8
 
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Cielo_TV_logo_2013.svg" group-title="Italia",Cielo Italia
-#EXTVLCOPT:http-reconnect=true
 https://uvotv.zappr.stream/281.m3u8
 
 #EXTINF:-1 tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" tvg-id="RealTimeItaly.it" group-title="Italy",Real Time
@@ -143,7 +139,6 @@ https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://78.130.250.2:8023/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Sky_TG24_logo_2020.svg" group-title="Italia",Sky TG24
-#EXTVLCOPT:http-reconnect=true
 https://uvotv.zappr.stream/293.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/raistoria/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Rai Storia",Rai Storia Italia
@@ -159,10 +154,9 @@ https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Videolina" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Videolina_logo.svg/512px-Videolina_logo.svg.png" group-title="Sardegna",Videolina
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(5tThZLGdiBa_h0QlaD54plqBwDH0jtXsvYoW_lbhyaOxOmz6YFvtoBVu6jp82hIaFe8oTavuKRX-0CxHPp4BFnuPN0I9nOLlEzBztrZn8GS9Ttj-gp0uh3tZptBPNjcf)/cloud/3/xa0aoxk/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(dNn-UWoTT6p3yShcT4OtTj6LNE2ZIQ3vjxIvmkLXolRegfuLqNkIw0uYYk37P_u9dQZbrytriUaP1MKDhHwtX7RN_as898KZq081R8R6uAxVLUKqXEAiUU7qsfvzXvRR)/cloud/3/xa0aoxk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="RTV" group-title="Italia",RTV
-#EXTVLCOPT:http-reconnect=true
 https://uvotv.zappr.stream/392.m3u8
 
 #EXTINF:-1 tvg-name="Mayday: Disastro Aereo" tvg-id="mayday-air-disaster-channel-ita" tvg-chno="387" group-title="RAKUTEN documentari",Mayday: Disastro Aereo
