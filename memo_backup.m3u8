@@ -9,22 +9,22 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="España",Antena 3
-https://atres-live.atresmedia.com/a8a2ba729cfe282fa5ef7e4570c97f47c50cc2f1_ES_1773833077_1773861817/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/dd76898dd59fdcf2e6ea73d766b7d775ad7db681_ES_1773834135_1773862875/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="España",laSexta
-https://atres-live.atresmedia.com/0cdea49d7481570d8faaf6e8b798502312a5c5f2_ES_1773833067_1773861807/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/cc3666faa15b8276ac389d668643bd6e0bd6575f_ES_1773834125_1773862865/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="España",Neox
-https://atres-live.atresmedia.com/cd33705e304f675016e1eb678c12e7c9a858e4a2_ES_1773833086_1773861826/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/720b8a6eb8578c6ac238efce3682cae2bbecaa28_ES_1773834144_1773862884/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://static.iptv-epg.com/es/Mega.es.png" group-title="España",Mega
-https://atres-live.atresmedia.com/7a0cf1472dc8e3e40a009bc9390f7e129920a9ed_ES_1773833096_1773861836/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/82056c08fe05140430baf3ffad73b91eb53e1df0_ES_1773834154_1773862894/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/History_Logo.svg/512px-History_Logo.svg.png" tvg-id="Historia" group-title="Documentales",Canal Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://static.iptv-epg.com/es/DMAX.es.png" group-title="Documentales",DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzM4MzMwNDYsIm5iZiI6MTc3MzgzMzA0NiwiZXhwIjoxNzczODMzNDA2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiNzkuMTU2LjE0NC4yMDUifQ.kriw5wwNtC3QacBldTb0W64UB4dZZw4BkdjtSx2qzNE/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzM4MzQxMDQsIm5iZiI6MTc3MzgzNDEwNCwiZXhwIjoxNzczODM0NDY0LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiNzkuMTU2LjE0NC4yMDUifQ.F1r9Y7FZ0U6qyyf8fGG5CviuDjOnmbtUDFm31SZXtK4/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
 
 #EXTINF:-1 tvg-id="RNE.CINE" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="CINE" tvg-name="RNE CINE",RNE CINE
 https://rtvelivestream.rtve.es/eventual/gofast/playm12_main_720.m3u8
@@ -166,10 +166,10 @@ https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 #EXTINF:-1 tvg-name="Videolina" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Videolina_logo.svg/512px-Videolina_logo.svg.png" group-title="Sardegna",Videolina
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(p-ufJVhzdnXzKRBG_bPj604DKIsXUkQ8IkOQ97kamdUKNfuEdYVftSdOYbKlPo2hv_B2X5mQ5Ryp_g8ojTIIj7O0pS_a1xMx75S4o0ZnNkpXf100ERvNSL5Pl7sLNoJD)/cloud/3/xa0aoxk/d/live-720.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(tlrDH4lFrEDiJxM39Bfb-Jw2fNA7j4AhjcfZ-qNu0F-Hab_DVyzGFzSP29ApqLbpE7XzT7MSR_KpXxM0jL5QHK0GNLlOiJHN2-yCT0DaJzaHD6SnkGWQSSqtLrXBC0Yc)/cloud/3/xa0aoxk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="Italia",Sardegna 1
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(ieVoZxzJrJyA4VCSVifrioRf4IlycqJ5fc3x_Bcr5rG-OiZRnISlrMIbbmIo2Z-dF0e6JbmAkQZ_Onedx_WiQ52mmcHsoZ5yO47gnEbXT6KLPblgz-25G0QmNVD5Jvg5)/cloud/3/x893du6/d/live-240.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(q82Jg2lfvw-xkwXFnhAjBfp28GHyKSrZ3tIXlb0hxp0BujqyGjpgs7kqDVxKxjWrmQKCbaAUgskHLMP9yFYlq97IliJWrQVJFZQHqY1xOdgr0BpCab5DzyhW32SBfWpQ)/cloud/3/x893du6/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="BBCDramaItaly.it" tvg-name="BBC Drama Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BBC_logo_%282021%29.svg/330px-BBC_logo_%282021%29.svg.png" group-title="FAST Italia",BBC Drama Italy
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
