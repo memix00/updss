@@ -9,19 +9,19 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="España",Antena 3
-https://atres-live.atresmedia.com/72514bb395c3eec1ea23bd4d4af7a79b9b11cd15_ES_1774016249_1774044989/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/f7dfc45b0a4b7970ff837f333991a9864e3b1d8b_ES_1774018483_1774047223/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="España",laSexta
-https://atres-live.atresmedia.com/b9f3854a4f3331830ac1f40798707a047ef632a0_ES_1774016240_1774044980/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/259fc9f16f01869fa245ece8aac896211981403c_ES_1774018474_1774047214/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="España",Neox
-https://atres-live.atresmedia.com/b104585abe787b84dd0339024c1569e448c96ffb_ES_1774016259_1774044999/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/4d50bbdc22c6b6786da05ff95cc32aef4d4c2fd1_ES_1774018493_1774047233/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://static.iptv-epg.com/es/Mega.es.png" group-title="España",Mega
-https://atres-live.atresmedia.com/1fa04dfea38ef9b551578ecd709ea65d87290ed2_ES_1774016269_1774045009/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/ec3cb5b9a289dd6ed187eb18fa7ce08b70419347_ES_1774018502_1774047242/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://static.iptv-epg.com/es/DMAX.es.png" group-title="Documentales",DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzQwMTYyMTksIm5iZiI6MTc3NDAxNjIxOSwiZXhwIjoxNzc0MDE2NTc5LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDIuNTYuMTI2In0.L1mV-I9qqZDAfs1U7RfYUp8twv2eYPuWPbljL0chcM8/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzQwMTg0NTIsIm5iZiI6MTc3NDAxODQ1MiwiZXhwIjoxNzc0MDE4ODEyLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDIuNTYuMTI2In0.ynS6WiZwFLRED7PccOj5RR3Y_iR15asVxCOUmCnDa-I/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/History_Logo.svg/512px-History_Logo.svg.png" tvg-id="Historia" group-title="Documentales",Canal Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
@@ -166,13 +166,13 @@ https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-id="DMAX.it" tvg-chno="52" group-title="DTV", DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzQwMTYyMTksIm5iZiI6MTc3NDAxNjIxOSwiZXhwIjoxNzc0MDE2NTc5LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDIuNTYuMTI2In0.L1mV-I9qqZDAfs1U7RfYUp8twv2eYPuWPbljL0chcM8/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzQwMTg0NTIsIm5iZiI6MTc3NDAxODQ1MiwiZXhwIjoxNzc0MDE4ODEyLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDIuNTYuMTI2In0.ynS6WiZwFLRED7PccOj5RR3Y_iR15asVxCOUmCnDa-I/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-id="DiscoveryChannel.it" group-title="Italy",Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
 #EXTINF:-1 tvg-name="Videolina" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Videolina_logo.svg/512px-Videolina_logo.svg.png" group-title="Sardegna",Videolina
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(nzryMlbb4352LceFsMZBSeveDeS-mp1nArDEWY65ZLN3WOiqsZzMrHqvYNYdqDMvJzxdVB2I8dqML6MCA_DOawNsGC_E5GH1pvhH2KDg-q9GB5BkCd2uB9RnWZVzZWZW)/cloud/3/xa0aoxk/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Oys6clkJmYPYqv2-Khe0a00zukpE7R3EX6qTlFYBl18vnN9-mwMdEDsaZU51M11kvdSpYDafSAoNECdU3vZa2EjLKuoPcluLhlxBBfxiuBofhn8sQuQU5UkCjt-L3Tz5)/cloud/3/xa0aoxk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="Italia",Sardegna 1
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(AUbQ8vv8fgyO3IhPQ2zPr0kDjq6f0B7B2K5Wye5zFIHzdLHN2njOF384fGKo_Ce-jfk4KkIhQwng1EFcnW1jNUi1KoXEQQnS32VDmLH3cIrTbpI52cZD7dnnVBlJZ4ub)/cloud/3/x893du6/d/live-720.m3u8
