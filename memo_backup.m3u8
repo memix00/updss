@@ -9,19 +9,19 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="España",Antena 3
-https://atres-live.atresmedia.com/f7dfc45b0a4b7970ff837f333991a9864e3b1d8b_ES_1774018483_1774047223/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/ad3c2cbdaa44cfc3f460ec8e1f041e52827794d2_ES_1774019016_1774047756/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="España",laSexta
-https://atres-live.atresmedia.com/259fc9f16f01869fa245ece8aac896211981403c_ES_1774018474_1774047214/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/1aae0b4b56a8191f7925f49d159ebaf20655c88b_ES_1774019006_1774047746/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="España",Neox
-https://atres-live.atresmedia.com/4d50bbdc22c6b6786da05ff95cc32aef4d4c2fd1_ES_1774018493_1774047233/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/45da05cb21590345ee90e45b2076a6d3c9cb57bf_ES_1774019026_1774047766/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://static.iptv-epg.com/es/Mega.es.png" group-title="España",Mega
-https://atres-live.atresmedia.com/ec3cb5b9a289dd6ed187eb18fa7ce08b70419347_ES_1774018502_1774047242/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+https://atres-live.atresmedia.com/49c6c00be3e95f3464c1fda0a133893b2e369f3c_ES_1774019035_1774047775/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://static.iptv-epg.com/es/DMAX.es.png" group-title="Documentales",DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzQwMTg0NTIsIm5iZiI6MTc3NDAxODQ1MiwiZXhwIjoxNzc0MDE4ODEyLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDIuNTYuMTI2In0.ynS6WiZwFLRED7PccOj5RR3Y_iR15asVxCOUmCnDa-I/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzQwMTg5ODUsIm5iZiI6MTc3NDAxODk4NSwiZXhwIjoxNzc0MDE5MzQ1LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODMuNDIuNTYuMTI2In0.6Md3D6yNx_BJHn6LX4kjtMVqn8tSq6EJi-waHrgbHh8/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/History_Logo.svg/512px-History_Logo.svg.png" tvg-id="Historia" group-title="Documentales",Canal Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
@@ -172,10 +172,10 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
 #EXTINF:-1 tvg-name="Videolina" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Videolina_logo.svg/512px-Videolina_logo.svg.png" group-title="Sardegna",Videolina
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Oys6clkJmYPYqv2-Khe0a00zukpE7R3EX6qTlFYBl18vnN9-mwMdEDsaZU51M11kvdSpYDafSAoNECdU3vZa2EjLKuoPcluLhlxBBfxiuBofhn8sQuQU5UkCjt-L3Tz5)/cloud/3/xa0aoxk/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ZrfN8eOhcUv9Wmn-YUanl86MeGciRNZ132ZYGcHreWzp80CK5PoTh27nahhSa0UsmxxDrUNbaRfX_1d7B7HrDayz7mXmJn0YTLnL885iK5KWDrke2SUPgzzzEwFiRojL)/cloud/3/xa0aoxk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="Italia",Sardegna 1
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(AUbQ8vv8fgyO3IhPQ2zPr0kDjq6f0B7B2K5Wye5zFIHzdLHN2njOF384fGKo_Ce-jfk4KkIhQwng1EFcnW1jNUi1KoXEQQnS32VDmLH3cIrTbpI52cZD7dnnVBlJZ4ub)/cloud/3/x893du6/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(6CgBJNnz_5jBTMbpO7DpIeG3PJoiSnHyTn48akgBSMbFJSuZ4YklujGCGwEqisG6tObi-Wq0_PWOMmsYbyTAsyDH31hjz6UnmMJaNT2dYChPkJTwLBoz9_Vlk1THoaIt)/cloud/3/x893du6/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="ODEON24" tvg-name="Odeon 24 Sardegna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ODEON_24.png" group-title="Italia",Odeon 24 Sardegna
 https://streaming.softwarecreation.it/Odeon24SA/Odeon24SA/chunklist_w1356511225.m3u8
