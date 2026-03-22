@@ -20,7 +20,21 @@ if os.environ.get("GITHUB_ACTIONS") == "true":
     GIT_REPO_DIR = BASE_DIR
     HEADLESS_MODE = True
 else:
+    import os
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+
+if os.environ.get("GITHUB_ACTIONS") == "true":
+    PLAYLIST_FILE = BASE_DIR / "memo.m3u8"
+    BACKUP_FILE = BASE_DIR / "memo_backup.m3u8"
+    DEBUG_FILE = BASE_DIR / "debug_streams.txt"
+    GIT_REPO_DIR = BASE_DIR
+else:
     PLAYLIST_FILE = Path(r"C:\Users\Memix\Documents\TV\IPTV\memo.m3u8")
+    BACKUP_FILE = Path(r"C:\Users\Memix\Documents\TV\IPTV\memo_backup.m3u8")
+    DEBUG_FILE = Path(r"C:\Users\Memix\Documents\TV\IPTV\debug_streams.txt")
+    GIT_REPO_DIR = Path(r"C:\Users\Memix\Documents\TV\IPTV")
     BACKUP_FILE = Path(r"C:\Users\Memix\Documents\TV\IPTV\memo_backup.m3u8")
     DEBUG_FILE = Path(r"C:\Users\Memix\Documents\TV\IPTV\debug_streams.txt")
     GIT_REPO_DIR = Path(r"C:\Users\Memix\Documents\TV\IPTV")
